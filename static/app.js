@@ -2,7 +2,7 @@ import router from "./utils/router.js";
 import Navbar from "./components/Navbar.js";
 import store from "./utils/store.js";
 
-console.log("app.js loaded");
+console.log("app.js is now loaded!")
 
 new Vue({
   el: "#app",
